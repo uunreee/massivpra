@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+h1{
+    font-size: 22px;
+    color: rgb(67, 100, 86);
+    padding-top: 40px;
+}
+
+body{
+    margin: 20px;
+}
+
+p span{
+    color: rgb(179, 40, 98);
+}
